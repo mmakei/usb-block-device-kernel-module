@@ -2,7 +2,7 @@ k# USB Block Device Access Kernel Module
 
 ## Overview
 This Linux kernel module provides an interface for reading from and writing to a USB block device via custom IOCTL commands. It supports both full-block operations and byte-offset operations.  
-Developed as part of **CSE 330 – Operating Systems** coursework at Arizona State University.
+part of **CSE 330 – Operating Systems** coursework
 
 ---
 
